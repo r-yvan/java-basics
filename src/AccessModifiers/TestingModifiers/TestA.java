@@ -18,6 +18,5 @@ public class TestA {
 //    System.out.println(c.myName);
 //    Brings an error due to different package and in non-subclass
   
-  
   }
 }
