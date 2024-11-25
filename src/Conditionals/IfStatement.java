@@ -7,7 +7,7 @@ public class IfStatement {
 
 //        IF - ELSE
 
-        if (false)
+        if (true)
             System.out.println("Hi There Aliens!!");
         else
             System.out.println("Hi There Humans!!");
